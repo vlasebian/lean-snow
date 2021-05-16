@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625533479294",
+    "firebase_url": "https://lean-snow-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lean-snow",
+    "storage_bucket": "lean-snow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625533479294:android:c32ede9ce4990b5428ab2f",
+        "android_client_info": {
+          "package_name": "com.smd.leansnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625533479294-1br282eaakm7frko8b0h0rkaugltq4p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ0SrQupCjsf93pUq_NPUgt_kooz2TB34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625533479294-1br282eaakm7frko8b0h0rkaugltq4p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
